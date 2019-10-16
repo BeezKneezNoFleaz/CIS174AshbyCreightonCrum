@@ -42,5 +42,6 @@ namespace CIS174_TestCoreApp.Models
         [ReadOnly(true)]
         [DisplayName("DMACC")]
         public string School { get; set; }
+
     }
 }
